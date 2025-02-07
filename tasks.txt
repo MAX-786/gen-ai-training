@@ -1,0 +1,3 @@
+metadata filter pinecone 
+llm on chunks retrived
+chat with sql server
